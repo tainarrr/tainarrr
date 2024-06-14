@@ -14,16 +14,9 @@
 
 ###
 
-<div align="left" >
-  <a href="https://www.linkedin.com/in/tainaandre/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="25" height="20" alt="linkedin logo"  /> 
-  </a>
-  <a href="https://x.com/tainarrr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="25" height="20" alt="twitter logo"  />
-  </a>
-  <a href="tainaandrecs@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="25" height="20" alt="gmail logo"  />
-  </a>
+  <a href="https://www.linkedin.com/in/tainaandre/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="25" height="20" alt="linkedin logo"/></a></a>
+  <a href="https://x.com/tainarrr" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="25" height="20" alt="twitter logo"/></a>
+  <a href="mailto:tainaandrecs@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="25" height="20" alt="gmail logo"/></a>
   <a href="https://discord.com/channels/@tabibi_" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="25" height="20" alt="discord logo"  />
   </a>
